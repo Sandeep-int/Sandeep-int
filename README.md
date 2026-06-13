@@ -4,8 +4,8 @@
 
 **LLM Security | Adversarial ML | Secure AI Systems**
 
-- Solo Builder
-- **AI Engineer who builds security tools for LLM systems.**
+Solo Builder
+**AI Engineer who builds security tools for LLM systems.**
 
 [GitHub](https://github.com/Sandeep-int) •
 [LinkedIn](https://www.linkedin.com/in/sandeep-s-68012225a/) 
