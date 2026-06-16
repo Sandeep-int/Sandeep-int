@@ -128,8 +128,8 @@ Incoming prompt
 
 <div align="center">
 
-| Input Type | Tier | Why |
-|------------|------|-----|
+| Input Type | Tier | 
+|------------|------|
 | 📝 **Text / Prompt injection** | 🟢 **FREE — Open Source** 
 | 📄 **PDF Analysis** | 🔒 **FREE — Open Source** (coming)
 | 🌐 **URL / Webpage scan** | 🔒 Paid (coming)
@@ -142,18 +142,19 @@ Incoming prompt
 
 <div align="center">
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-agent--shield-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandeep-int/agent-shield)
+
 [![Live API](https://img.shields.io/badge/🔴%20Live%20API-Azure-0078D4?style=for-the-badge&logoColor=white)](https://agent-shield-chbxh2hkhxgucgax.eastasia-01.azurewebsites.net)
 [![Health](https://img.shields.io/badge/Health-/health-22c55e?style=for-the-badge)](https://agent-shield-chbxh2hkhxgucgax.eastasia-01.azurewebsites.net/health)
 [![Metrics](https://img.shields.io/badge/Metrics-/metrics-4A90D9?style=for-the-badge)](https://agent-shield-chbxh2hkhxgucgax.eastasia-01.azurewebsites.net/metrics)
 
-[![HF Space UI](https://img.shields.io/badge/🤗%20Demo%20UI-HuggingFace-FF9A00?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/Sandeep120205/agent-shield)
-[![DistilBERT Model](https://img.shields.io/badge/🤗%20DistilBERT%20Model-HuggingFace-FF9A00?style=for-the-badge&logoColor=white)](https://huggingface.co/Sandeep120205/agent-shield-distilbert)
-[![mDeBERTa Model](https://img.shields.io/badge/🤗%20mDeBERTa%20Model-HuggingFace-FF9A00?style=for-the-badge&logoColor=white)](https://huggingface.co/Sandeep120205/agent-shield-mdeberta)
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-agent--shield-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandeep-int/agent-shield)
 [![PyPI](https://img.shields.io/badge/PyPI-agent--shield--int-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/agent-shield-int/)
 [![Grafana SIEM](https://img.shields.io/badge/Grafana-SIEM%20Dashboard-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://sandeepint.grafana.net/d/agent-shield-siem/agent-shield)
 [![SonarCloud](https://img.shields.io/badge/SonarCloud-Quality%20Gate%20✓-4E9BCD?style=for-the-badge&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/project/overview?id=Sandeep-int_agent-shield)
+
+[![HF Space UI](https://img.shields.io/badge/🤗%20Demo%20UI-HuggingFace-FF9A00?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/Sandeep120205/agent-shield)
+[![DistilBERT Model](https://img.shields.io/badge/🤗%20DistilBERT%20Model-HuggingFace-FF9A00?style=for-the-badge&logoColor=white)](https://huggingface.co/Sandeep120205/agent-shield-distilbert)
+[![mDeBERTa Model](https://img.shields.io/badge/🤗%20mDeBERTa%20Model-HuggingFace-FF9A00?style=for-the-badge&logoColor=white)](https://huggingface.co/Sandeep120205/agent-shield-mdeberta)
 
 </div>
 
@@ -275,7 +276,6 @@ Shield stronger → Strike generates harder attacks → loop forever
 [![GitHub](https://img.shields.io/badge/GitHub-Sandeep--int-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandeep-int)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-int/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Sandeep120205-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Sandeep120205)
-[![PyPI](https://img.shields.io/badge/PyPI-agent--shield--int-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/agent-shield-int/)
 
 </div>
 
