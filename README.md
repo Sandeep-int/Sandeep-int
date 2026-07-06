@@ -16,8 +16,6 @@
 
 ## About Me
 
-## About Me
-
 Security Engineer focused on LLM systems and adversarial ML.
 
 I design attack surfaces — then close them. Every decision starts with: *how does this break, and how do I stop that.*
